@@ -182,7 +182,6 @@
 <script>
 import {
   StatsCard,
-  ChartCard,
   NavTabsCard,
   NavTabsTable,
   OrderedTable
@@ -191,7 +190,6 @@ import {
 export default{
   components: {
     StatsCard,
-    ChartCard,
     NavTabsCard,
     NavTabsTable,
     OrderedTable
